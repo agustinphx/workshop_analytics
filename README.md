@@ -1,2 +1,2 @@
-# Analizando las métricas del caso: Panaderia Las Delicias
+# Workshop del caso: Panaderia Las Delicias
 ## 
