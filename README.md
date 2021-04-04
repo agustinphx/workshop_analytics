@@ -21,13 +21,13 @@ ______________________________________
 ### Los Procesos Primarios son los que están orientados hacia las actividades principales que se desarrollan en la organización.
 ### Los Procesos de Soporte son los que relacionan y ayudan a los diferentes ámbitos de la organización enfocándose en los Procesos Primarios.
 ### Cabe destacar que ambos Procesos están orientados a Metas.
-## Clasificando los Procesos e identificando su responsable según el caso propuesto (PDF):
+## Identificando cada Proceso y su responsable según el caso propuesto (PDF):
 ![Procesos Primarios](https://user-images.githubusercontent.com/58674979/113498380-ca26eb00-94e2-11eb-8702-b2c8341102e4.png)
 ____________________________________________
 ![Proceso de Soporte](https://user-images.githubusercontent.com/58674979/113498426-3a357100-94e3-11eb-8779-2389db4aa3d7.png)
 ## Subprocesos
 ### Son los derivados de los Procesos Primarios, donde se ve cada uno de manera más detallada. BI debe proveer una lectura estructurada y jerarquizada sobre los distintos ámbitos de trabajo que intervienen.
-## Clasificando los Subprocesos y Tipos de Indicadores según el caso propuesto (PDF):
+## Identificando los Subprocesos y Tipos de Indicadores según el caso propuesto (PDF):
 ![Sub 1](https://user-images.githubusercontent.com/58674979/113499773-fea0a400-94ee-11eb-82d9-dee7d3e91390.png)
 ___________________________
 ![Sub 2](https://user-images.githubusercontent.com/58674979/113499781-0a8c6600-94ef-11eb-9610-681d448410ad.png)
