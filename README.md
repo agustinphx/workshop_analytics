@@ -20,7 +20,7 @@ ______________________________________
 ### La construcción de un sistema de BI requiere una mirada y comprensión clara sobre cómo funcionan e interactúan los elementos de la organización. Los procesos de la organización  pueden se dividen en Primarios  y de Soporte.
 ### Los Procesos Primarios son los que están orientados hacia las actividades principales que se desarrollan en la organización.
 ### Los Procesos de Soporte son los que relacionan y ayudan a los diferentes ámbitos de la organización enfocándose en los Procesos Primarios.
-### Cabe destacar que ambos procesos están orientados a Metas.
+### Cabe destacar que ambos Procesos están orientados a Metas.
 ## Clasificando los Procesos e identificando su responsable según el caso propuesto (PDF):
 ![Procesos Primarios](https://user-images.githubusercontent.com/58674979/113498380-ca26eb00-94e2-11eb-8702-b2c8341102e4.png)
 ____________________________________________
