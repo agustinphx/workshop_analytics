@@ -34,7 +34,7 @@ ___________________________
 ![Sub 2](https://user-images.githubusercontent.com/58674979/113499781-0a8c6600-94ef-11eb-9610-681d448410ad.png)
 ___________________________
 ![Sub 3](https://user-images.githubusercontent.com/58674979/113499789-1b3cdc00-94ef-11eb-9b9a-c3161984e1aa.png)
-
+_____________
 
 
 ## Herramienta utilizada: Jamboard
