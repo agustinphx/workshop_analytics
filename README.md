@@ -16,7 +16,7 @@
 ### Los indicadores clave de performance son aquellos indicadores que se enfocan en los aspectos del desempeño organizacional que son los más críticos para el éxito actual y futuro de la organización. Un KPI afectará uno o más de los factores críticos de éxito y más de un KRI. En otras palabras, cuando el CEO, la gerencia y el personal se enfocan en el KPI, la organización marca objetivos en muchas direcciones.
 
 ______________________________________
-## Sistemas y Procesos
+## Sistemas y Procesos     <img src="https://img.icons8.com/cotton/25/000000/process.png"/>
 ### La construcción de un sistema de BI requiere una mirada y comprensión clara sobre cómo funcionan e interactúan los elementos de la organización. Los procesos de la organización  pueden se dividen en Primarios  y de Soporte.
 ### Los Procesos Primarios son los que están orientados hacia las actividades principales que se desarrollan en la organización.
 ### Los Procesos de Soporte son los que relacionan y ayudan a los diferentes ámbitos de la organización enfocándose en los Procesos Primarios.
