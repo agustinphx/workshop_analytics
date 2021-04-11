@@ -37,5 +37,5 @@ ___________________________
 _____________
 
 
-## Herramienta utilizada: Jamboard <img src="https://img.icons8.com/fluent/48/000000/jamboard.png"/>
+## Herramienta utilizada: Jamboard <img src="https://img.icons8.com/fluent/36/000000/jamboard.png"/>
 https://jamboard.google.com/
