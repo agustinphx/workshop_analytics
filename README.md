@@ -26,6 +26,7 @@ ______________________________________
 ![Procesos Primarios](https://user-images.githubusercontent.com/58674979/113498380-ca26eb00-94e2-11eb-8702-b2c8341102e4.png)
 ____________________________________________
 ![Proceso de Soporte](https://user-images.githubusercontent.com/58674979/113498426-3a357100-94e3-11eb-8779-2389db4aa3d7.png)
+‎      ‏‏‎
 ## Subprocesos  <img src="https://img.icons8.com/nolan/30/process.png"/>
 ### Son los derivados de los Procesos Primarios, donde se ve cada uno de manera más detallada. BI debe proveer una lectura estructurada y jerarquizada sobre los distintos ámbitos de trabajo que intervienen.
 ## Identificando los Subprocesos y Tipos de Indicadores según el caso propuesto (PDF):
