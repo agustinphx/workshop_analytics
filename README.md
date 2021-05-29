@@ -4,6 +4,7 @@
 ## Métricas 📊 
 ### Las métricas de negocio son las medidas cuantificables que se utilizarán en el sistema de BI para cuantificar a los business drivers. El objetivo del Business Intelligence es el de proveer al management de un marco de trabajo desde el cual éste pueda identificar, monitorear y accionar de manera ágil en las palancas claves del negocio.
 ### Cabe aclarar que las métricas, antes que fórmulas, son respuestas a las preguntas importantes del negocio.
+‎      ‏‏‎
 ## Tipos de Indicadores: RI, PI, KRI, KSF, KPI.
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> RI (Result Indicator)
 ### Resultado es lo que finalmente obtenemos del producto de los múltiples esfuerzos. Además este indicador mide hechos que son un resumen de la aportación de más de un equipo por lo que son útiles para observar el trabajo en equipo combinado.
