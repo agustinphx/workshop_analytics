@@ -25,7 +25,7 @@
 ### Cabe destacar que ambos Procesos están orientados a Metas.
 ‎      ‏‏‎
 ‎      ‏‏‎
-## Identificando cada Proceso Primario y su responsable:
+## Identificando cada Proceso y su responsable:
 ![Procesos Primarios](https://user-images.githubusercontent.com/58674979/113498380-ca26eb00-94e2-11eb-8702-b2c8341102e4.png)
 ![Proceso de Soporte](https://user-images.githubusercontent.com/58674979/113498426-3a357100-94e3-11eb-8779-2389db4aa3d7.png)
 ‎      ‏‏‎
