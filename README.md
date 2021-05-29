@@ -31,8 +31,8 @@
 ‎      ‏‏‎
 ‎      ‏‏‎
 ## Subprocesos  <img src="https://img.icons8.com/nolan/30/process.png"/>
-### Son los derivados de los Procesos Primarios, donde se ve cada uno de manera más detallada. BI debe proveer una lectura estructurada y jerarquizada sobre los distintos ámbitos de trabajo que intervienen.
-## En base a los Procesos Primarios, se identifican los Subprocesos y Tipos de Indicadores:
+### Son los derivados de los Procesos, donde se ve cada uno de manera más detallada. BI debe proveer una lectura estructurada y jerarquizada sobre los distintos ámbitos de trabajo que intervienen.
+## En base a los Procesos, se identifican los Subprocesos y Tipos de Indicadores:
 ![Sub 1](https://user-images.githubusercontent.com/58674979/113499773-fea0a400-94ee-11eb-82d9-dee7d3e91390.png)
 ___________________________
 ![Sub 2](https://user-images.githubusercontent.com/58674979/113499781-0a8c6600-94ef-11eb-9610-681d448410ad.png)
