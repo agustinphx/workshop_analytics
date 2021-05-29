@@ -5,7 +5,7 @@
 ### Las métricas de negocio son las medidas cuantificables que se utilizarán en el sistema de BI para cuantificar a los business drivers. El objetivo del Business Intelligence es el de proveer al management de un marco de trabajo desde el cual éste pueda identificar, monitorear y accionar de manera ágil en las palancas claves del negocio.
 ### Cabe aclarar que las métricas, antes que fórmulas, son respuestas a las preguntas importantes del negocio.
 ‎      ‏‏‎
-## Tipos de indicadores: RI, PI, KRI, KSF, KPI.
+## Tipos de Indicadores: RI, PI, KRI, KSF, KPI.
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> RI (Result Indicator)
 ### Resultado es lo que finalmente obtenemos del producto de los múltiples esfuerzos. Además este indicador mide hechos que son un resumen de la aportación de más de un equipo por lo que son útiles para observar el trabajo en equipo combinado.
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> PI (Performance Indicator)
@@ -32,7 +32,7 @@
 ‎      ‏‏‎
 ## Subprocesos  <img src="https://img.icons8.com/nolan/30/process.png"/>
 ### Son los derivados de los Procesos Primarios, donde se ve cada uno de manera más detallada. BI debe proveer una lectura estructurada y jerarquizada sobre los distintos ámbitos de trabajo que intervienen.
-## En base a los Procesos Primarios, se identifican los Subprocesos y Tipos de indicadores:
+## En base a los Procesos Primarios, se identifican los Subprocesos y Tipos de Indicadores:
 ![Sub 1](https://user-images.githubusercontent.com/58674979/113499773-fea0a400-94ee-11eb-82d9-dee7d3e91390.png)
 ___________________________
 ![Sub 2](https://user-images.githubusercontent.com/58674979/113499781-0a8c6600-94ef-11eb-9610-681d448410ad.png)
