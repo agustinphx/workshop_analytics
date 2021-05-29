@@ -1,4 +1,4 @@
-# Workshop del caso: Panadería Las Delicias <img src="https://img.icons8.com/fluent/30/000000/bakery.png"/> - EANT 
+# Workshop caso de análisis: Panadería Las Delicias <img src="https://img.icons8.com/fluent/30/000000/bakery.png"/>
 ## Caso (PDF): [Panadería Las Delicias (Caso).pdf](https://github.com/agustinrp/Workshop__Panaderia-Las-Delicias/files/6255051/Panaderia.Las.Delicias.Caso.pdf)
 ## Algunas definiciones para comenzar:
 ## Métricas 📊 
