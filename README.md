@@ -19,6 +19,7 @@
 ‎      ‏‏‎
 ‎      ‏‏‎
 ‎      ‏‏‎
+‎      ‏‏‎
 ## Sistemas y Procesos    <img src="https://img.icons8.com/cotton/25/000000/process.png"/>
 ### La construcción de un sistema de BI requiere una mirada y comprensión clara sobre cómo funcionan e interactúan los elementos de la organización. Los procesos de la organización  pueden se dividen en Primarios  y de Soporte:
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Los Procesos Primarios son los que están orientados hacia las actividades principales que se desarrollan en la organización.
