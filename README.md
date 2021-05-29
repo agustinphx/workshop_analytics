@@ -25,14 +25,14 @@
 ### Cabe destacar que ambos Procesos están orientados a Metas.
 ‎      ‏‏‎
 ‎      ‏‏‎
-## Identificando cada Proceso primario y su responsable:
+## Identificando cada Proceso Primario y su responsable:
 ![Procesos Primarios](https://user-images.githubusercontent.com/58674979/113498380-ca26eb00-94e2-11eb-8702-b2c8341102e4.png)
 ![Proceso de Soporte](https://user-images.githubusercontent.com/58674979/113498426-3a357100-94e3-11eb-8779-2389db4aa3d7.png)
 ‎      ‏‏‎
 ‎      ‏‏‎
 ## Subprocesos  <img src="https://img.icons8.com/nolan/30/process.png"/>
 ### Son los derivados de los Procesos Primarios, donde se ve cada uno de manera más detallada. BI debe proveer una lectura estructurada y jerarquizada sobre los distintos ámbitos de trabajo que intervienen.
-## En base a los Procesos primarios, se identifican los Subprocesos y Tipos de indicadores:
+## En base a los Procesos Primarios, se identifican los Subprocesos y Tipos de indicadores:
 ![Sub 1](https://user-images.githubusercontent.com/58674979/113499773-fea0a400-94ee-11eb-82d9-dee7d3e91390.png)
 ___________________________
 ![Sub 2](https://user-images.githubusercontent.com/58674979/113499781-0a8c6600-94ef-11eb-9610-681d448410ad.png)
