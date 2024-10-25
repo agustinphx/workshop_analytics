@@ -74,7 +74,7 @@
 
 ### Insights ![icons8-luz-encendida-50](https://github.com/agustinphx/workshop_analytics/assets/58674979/528acb49-33da-46cd-85bd-bc5e04e78a9d)
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  La ganancia formal representa solamente alrededor de un 29% de la ganancia total a pesar de representar casi el 59% de las ventas totales, mientras que la ganancia informal fue de alrededor del 71% y las ventas informales representaron el 41% de las ventas totales. Esta disparidad se debe principalmente a que en la modalidad informal se evita la contribución de tasas y cargos, entre otros componentes.
-#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Los meses de mayores ventas se comprenden entre Julio y Noviembre.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  El mes con  mayores ventas fue Agosto.
 ‎      ‎      ‏‏‎
 ‎      ‎      ‏‏‎
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -84,7 +84,7 @@
 
 
 ### Insights ![icons8-luz-encendida-50](https://github.com/agustinphx/workshop_analytics/assets/58674979/528acb49-33da-46cd-85bd-bc5e04e78a9d)
-#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Los meses de mayores egresos se comprenden entre Julio y Noviembre, lo cual tiene sentido al utilizar más materia prima ya que son los meses de mayores ventas.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Los meses de mayores egresos se comprenden entre Julio y Noviembre, lo cual tiene sentido al utilizar más materia prima ya que son los meses donde hay un gran volúmen de ventas.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Casi un 65% de los gastos se van entre salarios y materia prima, lo cuál significa que la amplia mayoría de los egresos son costos operativos.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
